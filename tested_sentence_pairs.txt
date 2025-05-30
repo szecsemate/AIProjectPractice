@@ -1,0 +1,28 @@
+[sentence1]
+[sentence2]
+[similarity score]
+
+cat
+cats
+0.87034869
+
+This is a sentence
+This is made of words
+0.52932060
+
+This car can be towed
+Bananas are a fruit
+0.06005442
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vel urna mollis, ultrices tortor et, porttitor lacus. Pellentesque hendrerit, orci vitae faucibus efficitur, lorem nibh pellentesque nibh, volutpat feugiat nisi.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac elit tempus, venenatis lacus sit amet, posuere tortor. Nulla orci velit, hendrerit a vestibulum vitae, imperdiet sed urna. Nam vitae.
+0.8295513391494751
+
+remelem ez az email jo egeszsegben talal
+jo reggelt kivanok, az en nevem
+0.5210396647453308
+
+figyelem, jelszava le fog járni
+szia XY, át tudod küldeni a fájlokat?
+0.26943790912628174
+
